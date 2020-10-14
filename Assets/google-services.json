@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "995974534886",
+    "firebase_url": "https://multiplayer-test-93ee0.firebaseio.com",
+    "project_id": "multiplayer-test-93ee0",
+    "storage_bucket": "multiplayer-test-93ee0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:995974534886:android:d72d5e88cc0fe7469b8d27",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.platformer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "995974534886-43ff1ahkpeam0068jguqa9a7adn0nbg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQHLUAVAz9gL306g62O644gCVF6g8jNHI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "995974534886-43ff1ahkpeam0068jguqa9a7adn0nbg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

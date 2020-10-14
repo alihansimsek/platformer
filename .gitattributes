@@ -1,0 +1,13 @@
+Assembly-CSharp-Editor.csproj filter=lfs diff=lfs merge=lfs -text
+build.apk filter=lfs diff=lfs merge=lfs -text
+debug.log filter=lfs diff=lfs merge=lfs -text
+InitCodeMarker filter=lfs diff=lfs merge=lfs -text
+Library filter=lfs diff=lfs merge=lfs -text
+Packages filter=lfs diff=lfs merge=lfs -text
+ProjectSettings filter=lfs diff=lfs merge=lfs -text
+Assembly-CSharp.csproj filter=lfs diff=lfs merge=lfs -text
+Logs filter=lfs diff=lfs merge=lfs -text
+obj filter=lfs diff=lfs merge=lfs -text
+platformer.sln filter=lfs diff=lfs merge=lfs -text
+Tutorial[[:space:]]Defaults filter=lfs diff=lfs merge=lfs -text
+Assets filter=lfs diff=lfs merge=lfs -text

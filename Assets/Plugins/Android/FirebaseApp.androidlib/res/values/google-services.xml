@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/firebase_database_url,@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="firebase_database_url" translatable="false">https://multiplayer-test-93ee0.firebaseio.com</string>
+  <string name="gcm_defaultSenderId" translatable="false">995974534886</string>
+  <string name="google_storage_bucket" translatable="false">multiplayer-test-93ee0.appspot.com</string>
+  <string name="project_id" translatable="false">multiplayer-test-93ee0</string>
+  <string name="google_api_key" translatable="false">AIzaSyCQHLUAVAz9gL306g62O644gCVF6g8jNHI</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCQHLUAVAz9gL306g62O644gCVF6g8jNHI</string>
+  <string name="google_app_id" translatable="false">1:995974534886:android:d72d5e88cc0fe7469b8d27</string>
+  <string name="default_web_client_id" translatable="false">995974534886-43ff1ahkpeam0068jguqa9a7adn0nbg9.apps.googleusercontent.com</string>
+</resources>
